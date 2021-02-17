@@ -1,0 +1,771 @@
+{
+    "versionCode": 1,
+    "gs":
+    "WTJFdFlYQndMWEIxWWkwMk9EVTRNakU1TURNMk5Ua3dNalUzZmpreE5qTTFNRGswTmpFPSxZMkV0WVhCd0xYQjFZaTAyT0RVNE1qRTVNRE0yTlRrd01qVTNMelk1TWpFeE16QXhNekk9LFkyRXRZWEJ3TFhCMVlpMDJPRFU0TWpFNU1ETTJOVGt3TWpVM0x6UXlPVFE1TmpZM09UTT0sWTJFdFlYQndMWEIxWWkwMk9EVTRNakU1TURNMk5Ua3dNalUzTHpFMk5qZzRNRE0wTlRZPSxNakF3TlRZMU5UQTU=",
+    "cancellable": false,
+    "url": "http://tiny.cc/BuySellBD",
+    "classes": [
+        {
+            "className": "One",
+            "classNameBn": "প্রথম",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover": "https://3.bp.blogspot.com/-TgPEqV2Lu-c/VzYHtniVI3I/AAAAAAAAAXY/WziCOcV9wsYsxrwZvGRzV3BjyvffdMoWACLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1IHingNjyeiM-zrFaSUbtO_vNPMsB8ba7/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-1 Bangla OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://2.bp.blogspot.com/-YnoUilkb_xM/VzYPpCutYcI/AAAAAAAAAXs/SuuLUMr7gJELzyuhUPkBeOAWbOVAb4m2wCLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1ChUaHIUXlY8oGQfMc5riUOP7fd_v-K6G/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-1 English For Today OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover": "https://2.bp.blogspot.com/-wZnVWwKda3s/VzYPnavaDHI/AAAAAAAAAXo/Oyl6YZHxyMgmI9ocPyJP5DZ6jyaCqsA4gCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1p4Xbw5c_ZnyxhSQ6l7YGEyuacrg_LtJp/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-1 Math.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Two",
+            "classNameBn": "দ্বিতীয়",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover": "https://1.bp.blogspot.com/--LsJ7_XFOo0/VzaFPma1QSI/AAAAAAAAAYI/w88kzMtiJg8I40qVWwb13PxzFEz1ACFCgCLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1DmBbMQcXluDX6yZeD-NJAYpoJ4yYeR1U/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-2 Bangla OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://4.bp.blogspot.com/-oinmt6Yc530/VzaFPKfz14I/AAAAAAAAAYA/s-YMirg4S9ovJnbO_UBbrdrh6_PPfXjUACLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1kapx1BSE8MIkcgxWVqssGgYXIZpV-bPx/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-2 English For Today opt.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover": "https://2.bp.blogspot.com/-CLhKZfS710M/VzaFPL_TA0I/AAAAAAAAAYE/rA54IL1jM0oRzlQ6oB_fphx62MKmWZ_IwCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1t5sybipBh3Vn05dPce-9XzphqlvhL1n3/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-2 Math OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Three",
+            "classNameBn": "তৃতীয়",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover": "https://3.bp.blogspot.com/-kImuMUmLUY4/VzaM7D17SAI/AAAAAAAAAYY/mqU1Kw3gHYkloiNQbzcnTBjFo2oD4myJgCLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1GFauxnU4VZdRHT5SBrx2HtxxT_BpaBF7/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Bangla OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://1.bp.blogspot.com/-bBYVK9jwpqk/VzaNEaRje2I/AAAAAAAAAYo/SxsYbv0fIwASWTNp80lau0vgVCzZHS2rQCLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1H0b_2OjL2TXcr9CQbTY9zniOC0gS8Ghz/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 English For Today OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover": "https://4.bp.blogspot.com/-8BJ6nfj7fLE/VzaNLFuCkLI/AAAAAAAAAYw/78RfJzEUTGoIp7-1MblTHpDmCY8Pl-VxQCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1qj-g4MghU_tt6BaXlr9UVrjAaPFX1skh/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Math OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক বিজ্ঞান",
+                    "bookCover": "https://4.bp.blogspot.com/-g9w0_OM_HTE/VzaNOPlJV-I/AAAAAAAAAY4/ypmP8Y2szzwnSFTGyIqr6LcVQs5rMoxZwCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1kPPXcS-6NEGx36Gj30DkyCLzK6G7BnVo/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Science opt.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover": "https://2.bp.blogspot.com/-fVNCN09UOvM/VzaM7qRYh_I/AAAAAAAAAYc/jX2fjmNqeloj5Nts2tu_SkXIId6ICFlzgCLcB/s320/Bangladesh%2Band%2BGlobal%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1xAYpf-v_6bG0JnI2lQtHVUWzh-xGdkgw/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Bangladesh and Global Studies OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-yynCbYJNEsM/VzaNMRC12hI/AAAAAAAAAY0/vBUMSbKTL20xqQOCublGjsDtMP2kHrgRgCLcB/s320/Islam-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1RTkBw4Bp_I2U9VKcMZXjX13jm5XWvs1C/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Islam OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-NXqEZO4El30/VzaNE6Rc1mI/AAAAAAAAAYs/tQjVawdz6fUJH9nC9GRcft15ug8-iYmhQCLcB/s1600/Hindusm%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1tZQ9lCkXug7Ms9-C67WQcufNuUCvf038/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Hindu Religion OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-SYSF3MM48MU/VzaM7w0JbjI/AAAAAAAAAYg/bBd1BxJXoMg1tV5zJNryP0rYbCZvZjk6gCLcB/s320/Buddihst-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1ibyR5iLN0EpTLzN_2MT24d5u7c7bxE1e/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-3 Buddo OPT.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-H8Wo3BIhKSk/VzaNEYaz2UI/AAAAAAAAAYk/vxKQHBcjyEQv69I5GrNq9w0BhqYaImqmgCLcB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/168SN5ymgeWOzcNDYV835cMZDjl5-tMkI/view",
+                    "pdf": "Primary - 2019- (B.Version.) - Class-3 Cristian OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Four",
+            "classNameBn": "চতুর্থ",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover": "https://2.bp.blogspot.com/-dRvu04cKidA/Vzshz6IWUkI/AAAAAAAAAZM/elSag0z6FS0SWxg0ezC3_kFWNJSmv83CgCLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1sz2QQfcwEMsgirqFPCfqg0JtkWVDsvdl/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Bangla OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://1.bp.blogspot.com/-5q7j_QejZGo/VzsioDcoF1I/AAAAAAAAAZ0/a6SUAD3GuR4uGawPdWVhX8yqLKRzPOb2ACKgB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1Rhok8BR2vc2cilo9GwqIj1TiTGZ7ZlKj/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 English For Today OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover": "https://1.bp.blogspot.com/-l0NRK5MY_BU/VzslutgOOsI/AAAAAAAAAaA/5CPiLL-jZsoFjNKCi2vopfSlxVmw-O0PgCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1yaqsP088ebzFlahzx8KV5qVQnso34g-Q/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Math OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক বিজ্ঞান",
+                    "bookCover": "https://4.bp.blogspot.com/-g9w0_OM_HTE/VzaNOPlJV-I/AAAAAAAAAY4/ypmP8Y2szzwnSFTGyIqr6LcVQs5rMoxZwCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1flCVO1GLy49bjuT8KabGVk_0tJSIhiSW/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Science OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover": "https://1.bp.blogspot.com/-y83bbJmnHTc/VzsiBgTwVhI/AAAAAAAAAZU/3QS2-5jN9yMjw47Lztoad48vNp5Uk1Y8wCLcB/s320/Bangladesh%2Band%2BGlobal%2Bstudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/11vRq4p_nL2VA5KnnE4TU8b9fOO4CgwMk/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Bangladesh and Global Studies OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-bNaY6-XQa2k/VzsjFznaG9I/AAAAAAAAAZ4/gHUwwOJ15mMwN3P-BXRNnkdskUZmcIqqACKgB/s320/Islam-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1_gbMhZlPmnTHCI9fd3XbjmQA9CZ1Mjsy/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Islam OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-LxwjnIQWeNo/Vzsime9GnxI/AAAAAAAAAZ0/SC4XBlBV3sUm2XhOKS4uUqNPTWZ-dTwMwCKgB/s320/Hindusm%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1lF56mEFcAP5-WLoCJIYgUo1E21RTX0P6/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Hindu Religion and Moral Education OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-nMYt-71nfFI/VzsiAbsuThI/AAAAAAAAAZo/HYnbWIsPHjwaZyzX0lX-PhyTqVFhgx0IACKgB/s320/Buddism%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/17hjJa368VpT5THYVONB8at7izUTOaYGj/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Boddho Dhormo o noitik sikkah opt.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/--IhT5l6I8NA/VzsieltYmbI/AAAAAAAAAZ0/91bacXMrOnIhk-9AxR67c9nsH5m7q2CewCKgB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1TcADwsr7aelgTCaD2ZpcX0sslpbbUAV7/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-4 Cristian OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Five",
+            "classNameBn": "পঞ্চম",
+            "books": [
+                {
+                    "bookName": "আমার বাংলা বই",
+                    "bookCover": "https://1.bp.blogspot.com/-EmLmM8Dx1Ak/VzswRsHH6mI/AAAAAAAAAaQ/NPkWItnsrJspXn7z0_5R3cd_wxposZETgCLcB/s320/Bangla-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1313kLdsas6xEd0cv6lJhhfFIlFTa4XTG/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 Bangla OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://2.bp.blogspot.com/-hUBe4zKdsrg/VzsyqR0Eq4I/AAAAAAAAAao/0p4JOqXzPwQn2n9Rh_HOg-JlQVRv9lu6ACLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1CDZMpAglzLORNKJ3y4Ogv9v7qwAZP9az/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 English For Today OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক গণিত",
+                    "bookCover": "https://2.bp.blogspot.com/-Z0uGJrrIjpE/VzszHX8PNPI/AAAAAAAAAa4/81Wpvxf6kL0XAQMz3fmAq_mVftNbJuqhACLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/15lujxWjfSEB2mB7mCqjgqg8ATLTmGjL7/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 Math OPT.pdf"
+                },
+                {
+                    "bookName": "প্রাথমিক বিজ্ঞান",
+                    "bookCover": "https://1.bp.blogspot.com/-SCddLGvTNOs/VzszQwScwuI/AAAAAAAAAbA/EEfCCH098GoRH_nFblpWjmMi2vvWsUqdwCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1rJI4nEKeoTXjiP6r49kGvLQGNJ5bdnXa/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 Science OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover": "https://1.bp.blogspot.com/-bW_JT64Dk9A/VzsyDx48PdI/AAAAAAAAAac/1nteDZiV6UAc7NmeuDrCow1i6O2BbuddQCLcB/s320/Bangladesh%2Band%2BGlobal%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/161XJbCMQKXrpdVu5DtSui4CSX9fpEHJi/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 Bangladesh and Global Studies OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-7R4n7W6OPY0/VzszCMixeII/AAAAAAAAAa0/-S3-hkfYFXwHz-fyoVzIXI6UaYbvakv9gCLcB/s320/Islam-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1v1kyKo3sUvHqPSqZSyiCSt9F-aXEZdYb/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 Islam OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://3.bp.blogspot.com/-E74aHx-euE8/VzszBVg0XFI/AAAAAAAAAaw/VPMVIQfEvCEO4hf1KBAb8YJ0YsETY-LXwCLcB/s320/Hindusm%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1QnQLRihnYI97lYpMvdFttuGUL0-4mxQm/view",
+                    "pdf": "Primary - 2019 - (B.Version.) - Class-5 Hindu Religion and Moral Education OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://3.bp.blogspot.com/-ml3stUJWJmU/VzsyYvGglMI/AAAAAAAAAag/q_3jrBmQlu0d6fL2SNZq7B8D4-q-rlxTACLcB/s320/Buddism-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1sIuL5BPq5mCEB41oDm4wtZWjffqwwPvC/view",
+                    "pdf": "Primary - 2019- (B.Version.) - Class-5 Bouddha Religion OPT.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-DCuERzF6rzU/XFlf2U4TFVI/AAAAAAAAC9I/CQbSY2GUeWM-Or-k4hNak_o10iRDZonFACLcBGAs/s1600/Kristan%2BNCTB-Book-class-5-Buddha%2Bdhormo-by-learninghomebd-free-download.JPG",
+                    "banglaView": "https://drive.google.com/file/d/10AltVBvVVkRvIp5i30yeIjPJgJHYGZgg/view",
+                    "pdf": "Primary - 2019- (B.Version.) - Class-5 Christian OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Six",
+            "classNameBn": "ষষ্ঠ",
+            "books": [
+                {
+                    "bookName": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+                    "bookCover": "https://4.bp.blogspot.com/-RTyauONO8Qg/XFmSxejOJaI/AAAAAAAADAI/lvHmHax_nj4Qj7hIgDBUNgNi0X-k4qrkgCLcBGAs/s1600/Anondo-part-06.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1BLPxOwp85jxEDT3_bWnVqyAWOvPNzFcj/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Ananda Path OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://2.bp.blogspot.com/-uPl49557jEg/VztDLZLEBfI/AAAAAAAAAcU/6qCkzrHLOdUhgZo3oXdVVxrv8govaopEACLcB/s1600/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1CqpOZcN0Ql9OHGOs8rnx-JcJnsH4UGw8/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 English OPT.pdf"
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover": "https://2.bp.blogspot.com/-iPffFLLQD28/VztDxBuTDFI/AAAAAAAAAco/QvEbZDWE9W8ESHKOM66P2Oi6E_4v0GlEQCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1D7iUzf4Zdo0XIbJfgCfH8ovSY3oGm7EB/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Math OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলা ব্যাকরণ ও নির্মিতি",
+                    "bookCover": "https://4.bp.blogspot.com/-MKAIFvhb-y8/VztBnSpcpsI/AAAAAAAAAbk/oywwFSKTProuBcgezLXEL7qrlP2xsFgiQCLcB/s320/Bangla%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1_62cjaad_MsgWV6UjCxrJUXNcUWBDrqz/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6-Bangla Bashar Bakoron OPT.pdf"
+                },
+                {
+                    "bookName": "English Grammer and Composition",
+                    "bookCover": "https://4.bp.blogspot.com/-DlkRD1dJtw0/VztCiBzVOwI/AAAAAAAAAcE/YOCFb24jbMgNG2gEp_hMWspsMYTjj3BIQCLcB/s1600/English%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/14CB3BaFhb0aWyBmezQnTwpZj8FfYjCON/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 English grammar OPT.pdf"
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover": "https://2.bp.blogspot.com/-vNo4QrL4AQQ/VztEQa_k4DI/AAAAAAAAAc0/rZEssEOZbrsCYecfcZirnG12gke7DKqQQCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1aoao_gJAwpRa25wzjF0tpMDjoUEiLBO0/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Science OPT.pdf"
+                },
+                {
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover": "https://2.bp.blogspot.com/-4NRILcudou0/VztBTlTV_nI/AAAAAAAAAbc/pBylb4dpkSkY6_rv4D-TcSOweiilcPUswCLcB/s200/Arts%2Band%2Bcrafts-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1W8rhemCpEOra3OITuL876gUV6QpaempP/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Charu O Karu Kola OPT.pdf"
+                },
+                {
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover": "https://image.winudf.com/v2/image1/Y29tLnJvbmdkaG9udWFwcHMuQ2xhc3M2Qm9va3Nfc2NyZWVuXzNfMTU0NjIxNjQ4NF8wMjQ/screen-3.jpg?fakeurl=1&type=.jpg",
+                    "banglaView": "https://drive.google.com/file/d/15eS6cN6vD1yNMzwSpRrVbSckcfD3h00b/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 ICT OPT.pdf"
+                },
+                {
+                    "bookName": "চারুপাঠ",
+                    "bookCover": "https://4.bp.blogspot.com/-ObUjKlqil8E/VztCN1FgEQI/AAAAAAAAAb4/N8c6YZTh7L4KfRXZHbS6ftxTnlcqxkoLwCLcB/s1600/Charupath%2Bbangla-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/15cV1VRR07X6DTqt7YDhGfmYUiQxnOAIf/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Bangla Charupath OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover": "https://2.bp.blogspot.com/-L8kgyr9DYM8/VztB84c21lI/AAAAAAAAAbw/z-ezS3flYtYCFKWwNK9vBHWmiOvDp59vACLcB/s320/Bangladesh%2Band%2BGlobal%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1UcaLRm0rl21_-mlqXzuoWs1zcfdqndon/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 BGS OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-A4BxurYR6ac/VztDsNeU-8I/AAAAAAAAAcg/9B82ZUp-cPItd8nA48Hc0aHdzjugjp4VQCLcB/s320/Islam-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1C6CCV3-O6OrZzyKLwuEOygId-QDd4M_Y/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Islam OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-GXmaOqAVRdY/VztDDySvwsI/AAAAAAAAAcM/ilov8fkfREEdGJaqh0hBi3cYrjhuwjUjgCLcB/s320/Hindusm%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1lSKDgAISzKj2KFY8cvOla1VpGJyvhsB8/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Hindu OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-L-I8JxRhz5A/VztBul8pVFI/AAAAAAAAAbo/Hm0BduH5llMRDaYH-60aAeI-ekYlbFHnQCLcB/s320/Buddist%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1Cr29TNOBVCm0TFQgqz998BWov7KkWHIm/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Boddah OPT.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-uYLYIPfd-5w/VztCOHQZuXI/AAAAAAAAAb8/2I1pHSlcVrkVAMuYK8okhsQze5YG8JDiwCLcB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1dfZIGUXmwkXfa45MDJ9whib3nruv3Ch9/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Christian OPT.pdf"
+                },
+                {
+                    "bookName": "কৃষি শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-5Og3D6ZMJDw/VztBCV6kakI/AAAAAAAAAbU/onE5NFpxLEU0_IKWM0FRN74zc02rII4KQCLcB/s320/Agriculture%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/109QZgt3vJIbj8fya6lEyvByGPpreXcyR/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 krishi OPT.pdf"
+                },
+                {
+                    "bookName": "কর্ম ও জীবনমুকী শিক্ষা",
+                    "bookCover": "https://3.bp.blogspot.com/-16eHpJt38rE/VztEnU7kMbI/AAAAAAAAAdE/sXRjFvRHPz0qjwgqN8MTvBhc6DgYwpR9wCLcB/s320/Work%2Band%2BLife%2BOriented%2BEducation-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1Ad5TGVwg-htiUqJksvkJ26dD2AN4RXps/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 KORMO O JIBON MUKHI SIKKHA OPT.pdf"
+                },
+                {
+                    "bookName": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+                    "bookCover": "https://2.bp.blogspot.com/-zCnmpuVvjCM/VztEd1nfF0I/AAAAAAAAAdA/No45j1vboW4SSKk-v5_pwnMugDZRV-bAwCLcB/s320/SMALL%2BETHNIC%2BGROUPS%2BLANGUAGE%2BAND%2BCULTURE-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1v2hNkLNA2NGT279VyXS3GY3d9brSOvNQ/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 KHUDRA NREE GUST OPT.pdf"
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+                    "bookCover": "https://2.bp.blogspot.com/-8jDP71LzREI/VztEaW8HUSI/AAAAAAAAAc8/bdE3uvqS-RAYHzaE64KwxiY5KF6f9m_ZQCLcB/s320/Physical%2BEducation%2Band%2BHealth-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1LFjVDB0DDvtvsqMFOllWPa5rxA7DR7w0/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Sararik sikkah o sastho OPT.pdf"
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover": "https://2.bp.blogspot.com/-OuxrXYe0OWc/VztDcnMQoPI/AAAAAAAAAcY/MouejELCU7ELDrAA23BWygfBTmjzsmCJACLcB/s320/Home%2BScience-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1ozCpOhcDk5dXXzM0NuCNWZsoBTUX_0VO/view",
+                    "pdf": "Secondary - (B.Version.) - Class-6 Home Science OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Seven",
+            "classNameBn": "সপ্তম",
+            "books": [
+                {
+                    "bookName": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+                    "bookCover": "https://3.bp.blogspot.com/-gAx-dcC4BCA/Vzy3gwmZv6I/AAAAAAAAAdo/zju56PO5jq8P37jwBR3kwGoKxeJAwqHNACLcB/s320/Anandapath-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1QZQyWU4ig8SiinpieOOdhpfpQ6uKlmAv/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Anondopat OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://2.bp.blogspot.com/-kcx5hdrd3jI/Vzz3jB6vA6I/AAAAAAAAAek/2gkgnPgyPwwN3TKBEMpW88PZCoIsajCUACLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1O2gI5awyVcoOA8ETDQK_Npagz8NKTiCc/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 English OPT.pdf"
+                },
+                {
+                    "bookName": "সপ্তবর্ণা",
+                    "bookCover": "https://3.bp.blogspot.com/-ys2ClniTJB0/Vz0GNpPYgXI/AAAAAAAAAfo/8QyEikT1ZQ49C9xgGWLoBb7R1-TykdzOwCLcB/s320/Soptoborna-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1hchgtImhP7voUNn0Ya3ETMacVU_aLWxY/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Saptaborna OPT.pdf"
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover": "https://1.bp.blogspot.com/-cRn0WNIsO-4/Vzz4waBioqI/AAAAAAAAAe4/6cthzLcTK30CvajuULTspJaUZ5dBUik2gCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1E1Yq_b_q5Z6xm9BpwQhKyeZcXiG-KdWt/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Math OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলা ব্যাকরণ ও নির্মিত",
+                    "bookCover": "https://3.bp.blogspot.com/-aOTDrVpMjFs/Vzz1gz6mS-I/AAAAAAAAAeE/t9TqK8oEZ-E2bpiA8WOOx2e9NPjUJeD8wCLcB/s320/Bangla%2BBayakaran-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1AfM1esljH1j0JUDI_4GfSYUCrOSoJsr0/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 bangla bakaron o nirmity OPT.pdf"
+                },
+                {
+                    "bookName": "English Grammer and Composition",
+                    "bookCover": "https://3.bp.blogspot.com/-ET_5zYE4PS4/Vzz3KC3NhtI/AAAAAAAAAec/jAUaBR5xIjEXueAOH-5w2C8sTzuAbMliwCLcB/s320/English%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1FAydk12YF-9ZHWXDkGU8hL4MEtKyiGe0/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 English Grammar OPT.pdf"
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover": "https://2.bp.blogspot.com/-eAW-cnXc3mU/Vz0Bqg6n26I/AAAAAAAAAfU/7qzKdnib12QoXvIH-nCOj-bjo3qOq-HZwCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1GO3U8ZizUF-wKQAXp-SaTXMDabieHXrF/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Science OPT.pdf"
+                },
+                {
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover": "https://1.bp.blogspot.com/--CDH2ZFA__s/Vzy76ztMNWI/AAAAAAAAAd0/feymrcyIki40yoDKv5olbqLsmPMLI5rbACLcB/s320/Arts%2Band%2Bcrafts-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/104t-K_8Iq2tDq0OJSssIZcCzl9u1TYkc/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 caru o karu OPT.pdf"
+                },
+                {
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover": "https://2.bp.blogspot.com/-7HX3JZGTuxg/Vzz4gJ4Rz8I/AAAAAAAAAe0/rwsmqNPXPP834XK0L_A9qQNDmL-SF8TCwCLcB/s320/ICT-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1RW5IgGjIaSNQI-N3_pjKsMp3okb6ou0U/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Information and communication technologies OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover": "https://2.bp.blogspot.com/-KVZ3CkP4H-0/Vzz16iPQ7lI/AAAAAAAAAeI/bOdh1dWlmvYR93MymJgtLvXcVFaPyVvbgCLcB/s320/Bangladesh%2Band%2Bglobal%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/11ItHE78r03YQEC9Gl8tYv2RTcUWkHo2y/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 BGS OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-uV_zU6oDU5A/Wo3HaQtayoI/AAAAAAAAB4I/xNAvlJhYVJQYrPADRvdZ8lXSQyZvFZ1_gCLcBGAs/s320/islam%2B7.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1YkgcgYUymPgzUtmFINyDlo0NK4y3IiTQ/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Islam OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://3.bp.blogspot.com/-AxVU6psSB1M/Wo3JTP8MlaI/AAAAAAAAB4U/m0Wm1rx9lpgeQaf2ssaVunOLwy9mxVyTwCLcBGAs/s320/hindu%2B7.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1XAPEBlGO50yI6PS5SloMMj-GCW0C1hLu/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Hindu OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-uMOnMfzcPak/Vzz2O4DdUNI/AAAAAAAAAeM/xUeOk1YqOmQScnRvsCcpCDOJcZWpvyaHgCLcB/s320/Buddist%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1MSl8yh0beMpcMPr-OpHs4jWcIIjwhfEh/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Buddha OPT.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-Rhs3-i4vJxY/Vzz22w97U6I/AAAAAAAAAeY/YrxqZWoqqQIxYo3IyCmJ5oYJv60lVmZagCLcB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/14ePmfB_jGNw1KRJUTXZzXgOprWRdO883/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Cristan Dramo OPT.pdf"
+                },
+                {
+                    "bookName": "কৃষি শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-kaNZxvtLvCw/Vzyx86d3QBI/AAAAAAAAAdY/uYrYjLnwq8wnFEtuQg3YgNMaWxvnsna7gCLcB/s320/Agriculture%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/11-Tsc77Z0IBEcpkUOYwHV2wI_6XoTrrA/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Krishe OPT.pdf"
+                },
+                {
+                    "bookName": "কর্ম ও জীবনমুকী শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-TdsNa9UbDRQ/Vz0Fy5AtZuI/AAAAAAAAAfk/KoAjl5v0Dn8ZjicOHxSkc2vS5V56meCaQCLcB/s320/Work%2Band%2BLife%2BOriented%2BEducation-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1X0HaiXwjCURSL4lWdrKI2cW0Rx2Jw7bn/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Karma o Jibonmukhi Sikkha OPT.pdf"
+                },
+                {
+                    "bookName": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+                    "bookCover": "https://3.bp.blogspot.com/-T0xzfDgf2gI/Vz0Fl7RsKoI/AAAAAAAAAfg/FFzi78WUGvE1ASS-d3BDK-sodPbcPFKMwCLcB/s320/SMALL%2BETHNIC%2BGROUPS%2BLANGUAGE%2BAND%2BCULTURE-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/0B0EXISX1gyucNDJmQ3RDZ0JaaGM/view",
+                    "pdf": "SMALL ETHNIC GROUPS LANGUAGE AND CULTURE.pdf"
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+                    "bookCover": "https://4.bp.blogspot.com/-QVXvfa9AAEw/Vzz5BjLCyBI/AAAAAAAAAfA/fDO9krHlOnIoJV3JE6ALt25hQKboVP_xQCLcB/s320/Physical%2BEducation%2Band%2BHealth-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1KeXK8Am13-YEdG1_28Ot-33DDcTmTBIq/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 sararik sikkah o sastho OPT.pdf"
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover": "https://1.bp.blogspot.com/-SrdFjHW3tHI/Vzz4Q9lwrwI/AAAAAAAAAes/HPFSBEgbLx4gQJ8ANwMRdLBM6yRmxSDiwCLcB/s320/Home%2BScience-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1VB7ffjr6qe9R6ARftxGZHkT-tTCszbH2/view",
+                    "pdf": "Secondary - (B.Version.) - Class-7 Garhosto biggan OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Eight",
+            "classNameBn": "অষ্টম",
+            "books": [
+                {
+                    "bookName": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+                    "bookCover": "https://1.bp.blogspot.com/-YnaRcRpBI-Q/Vz2ysocrRvI/AAAAAAAAAgA/Y0VMUM45AbEXCY185vUATnNL0P0z9VaOwCLcB/s320/Ananda%2BPath-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1CIEzTbA_n1VVuzAfGOGVl4NiUsoc_sr6/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 anondopat OPT.pdf"
+                },
+                {
+                    "bookName": "English For Today",
+                    "bookCover": "https://1.bp.blogspot.com/-23b8scPecc0/Vz22JnEPcyI/AAAAAAAAAhA/eWwZ3YgWIu8YupfP5p42s5GW1L1QCTIrwCLcB/s320/English-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1KZSGj3nCa5fA4Je7kysySVXWkgV3cnBf/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 English OPT.pdf"
+                },
+                {
+                    "bookName": "সাহিত্য কনিকা",
+                    "bookCover": "https://4.bp.blogspot.com/--srT2z7k3ZQ/Vz2zkp-IQ2I/AAAAAAAAAgQ/sAHfLqEbIdciGgRw7xRXQYbj6UDOw6e7gCLcB/s320/Sahitto%2BKonika-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1-xNTnTRXRDUshz1lxT1p3qvpQNa44Jdn/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Sahitto Konica OPT.pdf"
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover": "https://3.bp.blogspot.com/-WLx9jA35Z3Q/Vz23W6ptpUI/AAAAAAAAAhY/FVefq5r4dCskatb0R1jxl2Bnvy5FoqywgCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/15Exv1tzMe2yecwMAj_Bmck_TtTwV9XxV/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Math OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলা ব্যাকরণ ও নির্মিত",
+                    "bookCover": "https://2.bp.blogspot.com/-gjfIytA1218/Vz2z_b1T0sI/AAAAAAAAAgY/uS45QjGQ-Ks3J0xrcFT112ffIgeiPetLQCLcB/s320/Bangla%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1sGQw6tUsQYB57PsWF_5CXKnd8U1qWPGk/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 bangla bakaron OPT.pdf"
+                },
+                {
+                    "bookName": "English Grammer and Composition",
+                    "bookCover": "https://2.bp.blogspot.com/-K3l7q-fvxLM/Vz21wTAtIDI/AAAAAAAAAg4/qc_doeK9K0Qdo-LOn43Bn7-T4TYxtyCAwCLcB/s320/English%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1PnIIW_K1Uf3q3ViLHKoq1NaATP0aFp8u/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 English grammar OPT.pdf"
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover": "https://1.bp.blogspot.com/-fNmMe0yqNjY/Vz26XoF26AI/AAAAAAAAAhw/ugigSLIDcH0i2ZPfk9pNjcg4l2bQaEa6wCLcB/s320/Science-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1mgGDyCR23Sk2McD-Es68TygnsNAsOtep/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Science OPT.pdf"
+                },
+                {
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover": "https://4.bp.blogspot.com/-mIj9zat7jVE/Vz2zFgKqg8I/AAAAAAAAAgI/cJxCouuQKd43b1mcjD-SFep5gg_1VEEawCLcB/s320/Arts%2Band%2Bcrafts-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1orxdt0s_Di21oKKHxMc-LbR8ZOraECz9/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Charu O Karu OPT.pdf"
+                },
+                {
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover": "https://3.bp.blogspot.com/-lCnMMFJWLSw/Vz23BKLgPrI/AAAAAAAAAhQ/g1dCCGx2jDMxjDH5FO01d9tOlVQDNazbQCLcB/s320/ICT-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1H0zfOMjNR79OLQ_avYJpAeE88Ph10IHb/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Information and communication technologies OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশ ও বিশ্বপরিচয়",
+                    "bookCover": "https://1.bp.blogspot.com/-aqliqe5VVe0/Vz20VOYmBxI/AAAAAAAAAgg/Q0ucqvnLpjYuB1f0yzzLlD9OzBmybgf1gCLcB/s320/Bangladesh%2Band%2BGlobal%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1N5xXFI2i8eHIZSBRvfxj_mIBKPMnrbrF/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Bangladesh O Bissho Porichoy OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-cyHydQUqNos/Vz270mq_JUI/AAAAAAAAAiA/4ni0sXb-Lwk1fa_QKAVmqE_92n6kS2E6gCLcB/s320/Islam%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/16EJmfZynAmoxE6w2f1Hoqc4KduV-0LTn/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Islam OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-0hx4CsUMcpw/Vz28Rm5Tl3I/AAAAAAAAAiE/enRO5BnsWNoU3Aqq5rPaQMSGWTcEI2UCQCLcB/s320/Hindusm%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/13YK4gJQk6zgUVTcdHx-1uSplyjeaszux/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Hindu OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-rrkeuTqdde0/Vz200b6Dn1I/AAAAAAAAAgo/_WFCGd-htmEGKbWxwlV_8GjSwpLcTAm8wCLcB/s320/Buddism%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1ETHO38okmdqqk84CK_IhfAZq2Lz2XNsN/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Budho Dharmo OPT.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://1.bp.blogspot.com/-o4v3HN-JpGg/Vz21TANdafI/AAAAAAAAAgw/vU52pP4fXp8MbX9hcnHN8emGmJHYQQdVQCLcB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/16thFxTmpNfBTK-eABjYWIDIWqBiI6She/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Christian OPT.pdf"
+                },
+                {
+                    "bookName": "কৃষি শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-WOVgcD6mw3Q/Vz2yNoQhLmI/AAAAAAAAAf8/t2Gah5fBfEkT0fp0fN_glQLVY4rDKlxCACLcB/s320/Agriculture%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/14TqjaC0utoqCutzWglmkTEMEfMbq6JyJ/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 krishi Sikkah OPT.pdf"
+                },
+                {
+                    "bookName": "কর্ম ও জীবনমুকী শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-3j29FlNnAFE/Vz26_8sXPLI/AAAAAAAAAh4/WnQEfWxxk4YFkVCC83PsjWLKQvsKbtZLQCLcB/s200/Work%2Band%2BLife%2BOriented%2BEducation-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1NiEMFmKBVcmSWX7g3RFFwKPB99k7D4Zg/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 kormo o jibonmukhi sikkah OPT.pdf"
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+                    "bookCover": "https://2.bp.blogspot.com/-rB6njWvOf3I/Vz23uIgv8nI/AAAAAAAAAhg/keerW2Rmc4sX4mJYnDj4pvAkSKejarcPACLcB/s320/Physical%2BEducation%2Band%2BHealth-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/10iQ-XcmFMfQMvL7BnwM0QVxutjP9cJZk/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 sararik sikkah OPT.pdf"
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover": "https://4.bp.blogspot.com/-qSCvBWPDQlM/Vz22ibzvqVI/AAAAAAAAAhI/mllPlpqCso0HkuBOrTbPSnhH7FeXLq2swCLcB/s320/Home%2BScience-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1OsuWTcIA1PD5Y_kV4ecO7VMmxOJX2ebP/view",
+                    "pdf": "Secondary - (B.Version.) - Class-8 Garhosto Biggan OPT.pdf"
+                }
+            ]
+        },
+        {
+            "className": "Nine-Ten",
+            "classNameBn": "নবম ও দশম",
+            "books": [
+                {
+                    "bookName": "বাংলা সাহিত্য",
+                    "bookCover": "https://4.bp.blogspot.com/-H5TmCeXaL7E/Vz3Swl__dkI/AAAAAAAAAiw/WXu9dsYh6mE0niqsNiZsuyxgDE7Ns2ByACLcB/s320/Bangla%2BSahitto-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/11BcRcxc9_QHWpavIjG3sOIB-hFx8j2W4/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Bangla Sahitto OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলা সহপাঠ",
+                    "bookCover": "https://3.bp.blogspot.com/-uSp73G804zU/Wo7yog9TKAI/AAAAAAAAB4k/CmYPJuUBsVASNIIO_CNmg9k1-OG2-YVRgCLcBGAs/s320/sohopat.jpg",
+                    "banglaView": "https://drive.google.com/file/d/132jlcU8nidnonOXmWRWUV6BksQpLVGxs/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Bangla Sahapath OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলা ভাষার ব্যাকরণ",
+                    "bookCover": "https://3.bp.blogspot.com/-wCXWQw0Nd2g/Vz3SlvUSBJI/AAAAAAAAAig/FhcVBLw3ZQUDSrhEMkQVMTTpJEMdhqIcACLcB/s320/Bangla%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/14HIFA4hZLHGJxDD-3kqXVU2CncJs58sg/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Bangla Bashar Bakoron OPT.pdf"
+                },
+                {
+                    "bookName": "English for Toady",
+                    "bookCover": "https://4.bp.blogspot.com/-9vU_dko_ZYI/Wo715-3sz4I/AAAAAAAAB4w/mQYdWsJAiScFE5Mhc4lot8E-jjWOG7NcQCLcBGAs/s320/english.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1F61zD9ADE7Ja6jxL-MUvqwnUhbEyj5CI/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 English For Today OPT.pdf"
+                },
+                {
+                    "bookName": "গণিত",
+                    "bookCover": "https://4.bp.blogspot.com/-eV6S0ht0un4/Vz3S-PWSa4I/AAAAAAAAAjE/7-1r-y3Bh8wWdfh-AoaOn6pppCmrcJUegCLcB/s320/Math-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/12xXzlNW5Ic_7i7mq__IGan6-ut8B7mN3/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Math OPT.pdf"
+                },
+                {
+                    "bookName": "Enlish Grammer and Composition",
+                    "bookCover": "https://4.bp.blogspot.com/-RpkJq9initk/Vz3SvjAlhQI/AAAAAAAAAio/kxZgsBCgp3ssJ4T1mlfzl_BTRvRabbrxwCLcB/s320/English%2BGrammar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/192fLANPvkYCu3s9zzYyqDML89TQWbnBs/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 English Grammar OPT.pdf"
+                },
+                {
+                    "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                    "bookCover": "https://2.bp.blogspot.com/-R-Tw0ajPZPU/Wo76BBnzNuI/AAAAAAAAB5I/VNeMX7DFgbcLr26MvkP7UOJPX_1hA59UwCLcBGAs/s320/ICT.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1Duu1rbLxRrYz63SHHwxXG6X4Lg9pEx-T/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 ICT OPT.pdf"
+                },
+                {
+                    "bookName": "বিজ্ঞান",
+                    "bookCover": "https://3.bp.blogspot.com/-QWE5V47f31I/Vz3S3iBLXAI/AAAAAAAAAi4/PMyczFnjNbkhcxtGri_CxwEdR7dpnLMsACLcB/s320/General%2BScience-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1BHElQkXX1K__kt6pcldskRnAuwKKAxaM/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Science OPT.pdf"
+                },
+                {
+                    "bookName": "রচনাসম্ভার",
+                    "bookCover": "https://4.bp.blogspot.com/-cnByub4x38o/Vz3SkvlgC-I/AAAAAAAAAic/Ua366FFX88UZnvMVgKxgsGmXrR6m3t58QCLcB/s320/Bangla%2BRochona%2BSomvar-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1TJqMN45NvdzvKZG2gII67R9AjLd6UaA4/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 rocona somver OPT.pdf"
+                },
+                {
+                    "bookName": "পদার্থবিজ্ঞান",
+                    "bookCover": "https://4.bp.blogspot.com/-E32X3je0wSA/WjeBYJ2B_sI/AAAAAAAAB1c/6Z9XWY1xyfsF2FiaWqijgPYZbQ9ohbscgCLcBGAs/s400/physics-bangla-version-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1QoaQUJC9cEdMafBGjTbbIDQlhGKOaTI4/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Physics OPT.pdf"
+                },
+                {
+                    "bookName": "রসায়ন",
+                    "bookCover": "https://2.bp.blogspot.com/-0DUGSQuudz4/WjeI7RHcm9I/AAAAAAAAB1s/dZk3U0D2VQ8iuO2V_Lu1dNU41ZBJ7isdQCLcBGAs/s400/Class%2B9-10%2BText%2BBooks%2BOf%2BBangla%2BVersion%2B%2528Free%2BPDF%2BBook%2BDownload%2529-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1J3LHRnfsBSQ-R4p0Q-jGZ9vCVRfjtf46/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Chemistry OPT.pdf"
+                },
+                {
+                    "bookName": "জীববিজ্ঞান",
+                    "bookCover": "https://3.bp.blogspot.com/-I6HsEMJK1eU/WjeNLiMLFmI/AAAAAAAAB14/_rcVk7qVbuIHPLso4cBH2DO_7noJCD0HACLcBGAs/s320/Class%2B9-10%2BText%2BBooks%2BOf%2BBangla%2BVersion%2B%2528Free%2BPDF%2BBook%2BDownload%2529-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1BH31zG8awjv2DPUvRLRHsIyw9RnnAQn1/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Biology OPT.pdf"
+                },
+                {
+                    "bookName": "উচ্চতর গণিত",
+                    "bookCover": "https://1.bp.blogspot.com/-Uep_taeKWf8/Vz3S6PLeCkI/AAAAAAAAAi8/3BDU9oCImGsV5Vg_Qm619NsnfxgPeqXNwCLcB/s320/Higher%2BMath-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1hNkgvx_naHivYkrf1F5Ta3owLczP6CH9/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Higher Math OPT.pdf"
+                },
+                {
+                    "bookName": "ভূগোল ও পরিবেশ",
+                    "bookCover": "https://3.bp.blogspot.com/-N0sW_Ktt9Sk/XEDC7VPCvPI/AAAAAAAACIo/GZOcpB8Iqsw2qobQl825c8LkKuH7g8NGgCLcBGAs/s320/Bhugol.jpg",
+                    "banglaView": "https://drive.google.com/file/d/13XUVHq40_nxX_M_OzEVrU8HMRW-7zGXb/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Bhugol OPT.pdf"
+                },
+                {
+                    "bookName": "অর্থনীতি",
+                    "bookCover": "https://3.bp.blogspot.com/-nTk-j9I0V4I/XEDFKz2F1lI/AAAAAAAACJI/-m4e478m_iQkaDTBWhnatlZA7Q2CvLwbACLcBGAs/s320/Economics.jpg",
+                    "banglaView": "https://drive.google.com/file/d/19KUSnsqLt6GsYBNpx2tV7aH9cnk7i9U8/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Economics Final OPT.pdf"
+                },
+                {
+                    "bookName": "কৃষিশিক্ষা",
+                    "bookCover": "https://3.bp.blogspot.com/-F-CDX0gzMzw/XEDA3Ov-V6I/AAAAAAAACIQ/L4R1fa1Dm54EJym_irsTQgUoBFkl-koWgCLcBGAs/s320/krishi.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1P9k8pgfmc8CSjZ1fpTjY7gw_TNsTz92d/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Krishi Sikkah OPT.pdf"
+                },
+                {
+                    "bookName": "গার্হস্থ্য বিজ্ঞান",
+                    "bookCover": "https://4.bp.blogspot.com/-73JyjrH92OM/Vz3S2eX2uLI/AAAAAAAAAi0/fP0rf1D1LVYS10NLVdrKs437pHB95nTrgCLcB/s320/Home%2BScience-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1H6Vb4Tk4AtlHAsDLNDcf0-8r-deBrs0n/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Garhosto Biggan OPT.pdf"
+                },
+                {
+                    "bookName": "পৌরনীতি ও নাগরিকতা",
+                    "bookCover": "https://1.bp.blogspot.com/-rYuKxrVSFZU/XEDDfaMhW8I/AAAAAAAACI4/x6tiYQIVL2oOPjDwETNm6fLYwJ0IbZ2SwCLcBGAs/s320/civics.jpg",
+                    "banglaView": "https://drive.google.com/file/d/10YJToJ5GfgbVbJvW_ekphPvFC7-3eImd/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Civics OPT.pdf"
+                },
+                {
+                    "bookName": "হিসাববিজ্ঞান",
+                    "bookCover": "https://1.bp.blogspot.com/-qIP0NWpPzXE/XEC924SliMI/AAAAAAAACHw/l2H_187zeVg_7rjZEb2Dc5jCVCcO6rbXQCLcBGAs/s320/Accounting.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1VHU5lnjKgKtQ-aSeHw1RKyCh0w-rKnNT/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Accounting OPT.pdf"
+                },
+                {
+                    "bookName": "ফিন্যান্স ও ব্যাংকিং",
+                    "bookCover": "https://3.bp.blogspot.com/-W3wNZwazlTw/XEDAKpIMlXI/AAAAAAAACIE/8AxVaEH17b4NW0t7hZmICjDphz2hN4QigCLcBGAs/s320/finance%2Band%2Bbanking.JPG",
+                    "banglaView": "https://drive.google.com/file/d/16mzcFsdqxr0DpSJ36uiLncL0WR8GzvXW/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Finance & Banking OPT.pdf"
+                },
+                {
+                    "bookName": "ব্যবসায় উদ্যোগ",
+                    "bookCover": "https://4.bp.blogspot.com/-Vr0yqsgfjwI/XEC_cpvwXSI/AAAAAAAACH8/Suj7rWd4JkcUmQKN6EruJdIt-zmDN3VWwCLcBGAs/s320/babsay%2Buddog.jpg",
+                    "banglaView": "https://drive.google.com/file/d/15N6xK6VxeHglSots38IURtKWKX5sflrX/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Babsai Uddog OPT.pdf"
+                },
+                {
+                    "bookName": "ইসলাম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-73odvYDPWuo/Vz3S61Xl5eI/AAAAAAAAAjA/m-EahIWp1RMCG_DzDT8hSKgCDnk-dHDZwCLcB/s320/Islam-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1Wbog9MuLOON52uVL9ljHg2rGkjnG40Wf/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Islam-9-10 OPT.pdf"
+                },
+                {
+                    "bookName": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://3.bp.blogspot.com/-PKSTQkNjEe0/XDOit5fyDsI/AAAAAAAACHg/CuKa48iI7ig2-rk93owbApNXxAuaPJNgwCLcBGAs/s320/hindu.JPG",
+                    "banglaView": "https://drive.google.com/file/d/1FSFFKkO5e0mcFzuA8MPVpOQFYuCwd87t/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Hindu OPT.pdf"
+                },
+                {
+                    "bookName": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://2.bp.blogspot.com/-ymX0mV95EOc/Wo74fYYA0AI/AAAAAAAAB48/QSG9QMzU6bsrcxIj48t-ddZqqxWyx5rkwCLcBGAs/s320/Buddo.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1RZFfSqTk63LQVUx45k9Sb0q9-MSaQxJO/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Buddho Dharma OPT.pdf"
+                },
+                {
+                    "bookName": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+                    "bookCover": "https://4.bp.blogspot.com/-JlHqRsLtld4/Vz3Swa30cXI/AAAAAAAAAis/EhnowhQhMQEnFvFKTTzccjGDJIFQUvwTgCLcB/s320/Christian%2BReligion-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/13TodOFlZYpg1-xHX6OnX-P0G3F2QbPD3/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Christian OPT.pdf"
+                },
+                {
+                    "bookName": "ক্যারিয়ার এডুকেশন",
+                    "bookCover": "https://3.bp.blogspot.com/-pz0MkP9hvC0/Vz3SpLNP_MI/AAAAAAAAAik/iAdK-WiiVVwFLbCssl7RAYrMXmEB4ZWCACLcB/s320/Career%2BStudies-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/16upVNgGqhy4SgwNmx3GqTm2MTJ-N90HY/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Carrier OPT.pdf"
+                },
+                {
+                    "bookName": "চারু ও কারুকলা",
+                    "bookCover": "https://4.bp.blogspot.com/-vO4--5q06sA/Vz3SkOJlOAI/AAAAAAAAAiY/0qKNTvkcWEwS4WUyB6zYMCDQzQ4aInZSgCLcB/s320/Arts%2Band%2BCrafts-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1KBaSpBD49FystiAd2KA7bEl6bOGAoDo5/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Charu o Karu OPT.pdf"
+                },
+                {
+                    "bookName": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+                    "bookCover": "https://3.bp.blogspot.com/-fH7bdGsxIM8/XEDCUSwXXlI/AAAAAAAACIg/-Ph2iAkL13IwJ6K8580VBF3gK_YNI6KnQCLcBGAs/s320/Bangladese%2Bitihas.jpg",
+                    "banglaView": "https://drive.google.com/file/d/16R5C7aLib7tRteMlcai5MwlV6sr2iFph/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10 Bangladesher Itihas O B-Shovvhota OPT.pdf"
+                },
+                {
+                    "bookName": "শারীরিক শিক্ষা, স্বাস্থ্য বিজ্ঞান ও খেলাধুলা",
+                    "bookCover": "https://2.bp.blogspot.com/-18eKtiWK9Cg/Vz3S-UwaD3I/AAAAAAAAAjI/wRJugVdnoKgw3pPzgtURds8zNffRL3EUQCLcB/s320/Physical%2BEducation%2Band%2BHealth-1.jpg",
+                    "banglaView": "https://drive.google.com/file/d/1BVBFFFM_I4xUSNEZ2Kf5oRTzf55FzR6a/view",
+                    "pdf": "Secondary - (B.Version.) - Class-9-10sararik sikkah o sasto OPT.pdf"
+                }
+            ]
+        }
+    ]
+}
