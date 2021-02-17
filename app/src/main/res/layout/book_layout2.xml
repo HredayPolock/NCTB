@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginRight="8dp"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/linearLayout_book"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView_bookCover"
+            android:layout_width="100dp"
+            android:layout_height="56dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/textView_bookName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:layout_toLeftOf="@+id/downloadIcon"
+            android:layout_toRightOf="@+id/imageView_bookCover"
+            android:layout_weight="1"
+            android:text="Two-Line Item"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/downloadIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:src="@drawable/ic_download_grey600_24dp"
+            android:tint="@color/accent" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

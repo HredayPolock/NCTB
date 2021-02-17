@@ -1,0 +1,89 @@
+apply plugin: 'com.android.application'
+
+android {
+    packagingOptions {
+        exclude 'AndroidManifest.xml'
+        exclude 'lib/arm64-v8a/libcardioDecider.so'
+        exclude 'lib/arm64-v8a/libcardioRecognizer.so'
+        exclude 'lib/arm64-v8a/libcardioRecognizer_tegra2.so'
+        exclude 'lib/arm64-v8a/libopencv_core.so'
+        exclude 'lib/arm64-v8a/libopencv_imgproc.so'
+        exclude 'lib/armeabi/libcardioDecider.so'
+        exclude 'lib/armeabi-v7a/libcardioDecider.so'
+        exclude 'lib/armeabi-v7a/libcardioRecognizer.so'
+        exclude 'lib/armeabi-v7a/libcardioRecognizer_tegra2.so'
+        exclude 'lib/armeabi-v7a/libopencv_core.so'
+        exclude 'lib/armeabi-v7a/libopencv_imgproc.so'
+        exclude 'lib/mips/libcardioDecider.so'
+        exclude 'lib/x86/libcardioDecider.so'
+        exclude 'lib/x86/libcardioRecognizer.so'
+        exclude 'lib/x86/libcardioRecognizer_tegra2.so'
+        exclude 'lib/x86/libopencv_core.so'
+        exclude 'lib/x86/libopencv_imgproc.so'
+        exclude 'lib/x86_64/libcardioDecider.so'
+        exclude 'lib/x86_64/libcardioRecognizer.so'
+        exclude 'lib/x86_64/libcardioRecognizer_tegra2.so'
+        exclude 'lib/x86_64/libopencv_core.so'
+        exclude 'lib/x86_64/libopencv_imgproc.so'
+    }
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+    defaultConfig {
+        applicationId "org.richit.nctb"
+        minSdkVersion 16
+        targetSdkVersion 29
+        versionCode 10
+        versionName "1.0.0.10A"
+        resConfigs "en"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.amitshekhar.android:android-networking:1.0.2'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation "com.mikepenz:materialdrawer:6.1.2"
+    // Our own
+    implementation 'com.github.rich-it:MaterialOfficeAbout:1.0.4'
+    implementation 'com.github.p32929:AndroidAppUpdater:1.0.2'
+    implementation 'com.github.p32929:HouseAds2:1.0.0.12'
+
+    //
+    // Google
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+
+    // Fb
+    implementation 'com.facebook.android:audience-network-sdk:5.+'
+
+    // Startapp
+    implementation 'com.startapp:inapp-sdk:4.2.4'
+
+    // For Mopub banners
+    implementation('com.mopub:mopub-sdk-banner:5.5.0') {
+        transitive = true
+    }
+    // For Mopub rewarded videos. This will automatically also include interstitials
+    implementation('com.mopub:mopub-sdk-rewardedvideo:5.5.0') {
+        transitive = true
+    }
+
+}
+
+android.applicationVariants.all { variant ->
+    variant.outputs.all {
+        def appName = "NCTB"
+        outputFileName = appName + "-${variant.versionName}.apk"
+    }
+}
